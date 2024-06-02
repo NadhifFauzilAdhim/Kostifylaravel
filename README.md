@@ -23,3 +23,27 @@
 </div>
 
 ###
+
+## Features
+
+- Login
+- Register
+- Forgot Password
+- Email Verification with SMTP
+- Dashboard
+- Post Property
+- Property Request
+- Upload Images
+
+
+## Installation
+
+Kostify Run
+
+```bash
+ - Clone Project
+ - Import Database
+ - Run
+
+```
+    
