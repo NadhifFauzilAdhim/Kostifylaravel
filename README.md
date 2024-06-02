@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Kostify Property Find Native</h2>
+<h2 align="center">Kostify Property Find Laravel</h2>
 
 ###
 
